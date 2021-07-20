@@ -1,7 +1,15 @@
-.block{
-    color: aliceblue;
+.top{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: sticky;
+    font-size: 10px;
 }
 
-.elegant{
-    color: aquamarine;
+.bottom{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: sticky;
+    font-size: 10px;
 }
