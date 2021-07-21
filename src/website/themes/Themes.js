@@ -1,10 +1,15 @@
 import "./Themes.css";
+import { Link } from "react-router-dom";
 
 function Themes(){
 	return (
 		<>
+			<div className = "header">Choose your theme</div>
+
 			<div className = "top">
-			<h1 className = "elegant">ELEGANT</h1>
+			<Link className="elegant" to="/Elegant">
+			<h1>ELEGANT</h1>
+			</Link>
 			<h1 className = "minimal">MINIMAL</h1>
 			<h1 className = "modern">MODERN</h1>
 			<h1 className = "nature">NATURE</h1>

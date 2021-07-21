@@ -1,9 +1,51 @@
+.header{
+	text-align: center;
+	padding-top: 130px;
+	font-size: 20px;
+
+}
+
 .top{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	position: sticky;
-    font-size: 10px;
+    font-size: 15px;
+	padding-left: 170px;
+	padding-right: 170px;
+	padding-top: 50px;
+}
+
+.elegant{
+	border-style: solid;
+	border-color:rgb(29, 92, 92);
+	padding-left: 12px;
+	padding-right: 12px;
+	text-decoration: none;
+}
+
+.minimal{
+	border-style: solid;
+	border-color:rgb(29, 92, 92);
+	padding-block: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.modern{
+	border-style: solid;
+	border-color:rgb(29, 92, 92);
+	padding-block: 15px;
+	padding-left: 21px;
+	padding-right: 21px;
+}
+
+.nature{
+	border-style: solid;
+	border-color:rgb(29, 92, 92);
+	padding-block: 15px;
+	padding-left: 27px;
+	padding-right: 27px;
 }
 
 .bottom{
@@ -11,5 +53,40 @@
 	justify-content: space-between;
 	align-items: center;
 	position: sticky;
-    font-size: 10px;
+    font-size: 15px;
+	padding-left: 170px;
+	padding-right: 170px;
+	padding-top: 50px;
+}
+
+.neon{
+	border-style: solid;
+	border-color:rgb(29, 92, 92);
+	padding-block: 15px;
+	padding-left: 42px;
+	padding-right: 42px;
+}
+
+.pastel{
+	border-style: solid;
+	border-color:rgb(29, 92, 92);
+	padding-block: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.tropical{
+	border-style: solid;
+	border-color:rgb(29, 92, 92);
+	padding-block: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.vintage{
+	border-style: solid;
+	border-color:rgb(29, 92, 92);
+	padding-block: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
