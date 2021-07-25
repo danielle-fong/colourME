@@ -27,25 +27,25 @@
 .minimal{
 	border-style: solid;
 	border-color:rgb(29, 92, 92);
-	padding-block: 15px;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-decoration: none;
 }
 
 .modern{
 	border-style: solid;
 	border-color:rgb(29, 92, 92);
-	padding-block: 15px;
-	padding-left: 21px;
-	padding-right: 21px;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-decoration: none;
 }
 
 .nature{
 	border-style: solid;
 	border-color:rgb(29, 92, 92);
-	padding-block: 15px;
-	padding-left: 27px;
-	padding-right: 27px;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-decoration: none;
 }
 
 .bottom{
@@ -62,31 +62,31 @@
 .neon{
 	border-style: solid;
 	border-color:rgb(29, 92, 92);
-	padding-block: 15px;
-	padding-left: 42px;
-	padding-right: 42px;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-decoration: none;
 }
 
 .pastel{
 	border-style: solid;
 	border-color:rgb(29, 92, 92);
-	padding-block: 15px;
-	padding-left: 30px;
-	padding-right: 30px;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-decoration: none;
 }
 
 .tropical{
 	border-style: solid;
 	border-color:rgb(29, 92, 92);
-	padding-block: 15px;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-decoration: none;
 }
 
 .vintage{
 	border-style: solid;
 	border-color:rgb(29, 92, 92);
-	padding-block: 15px;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 12px;
+	padding-right: 12px;
+	text-decoration: none;
 }
