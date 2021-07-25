@@ -1,7 +1,7 @@
-import "./Minimal.css";
+import "./Nature.css";
 import { Link } from "react-router-dom";
 
-function Minimal(){
+function Nature(){
 	return (
 		<>
 			<div className = "header">Choose your shade:</div>
@@ -18,4 +18,4 @@ function Minimal(){
 	);
 };
 
-export default Minimal;
+export default Nature;

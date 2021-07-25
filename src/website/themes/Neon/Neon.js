@@ -1,7 +1,7 @@
-import "./Minimal.css";
+import "./Neon.css";
 import { Link } from "react-router-dom";
 
-function Minimal(){
+function Neon(){
 	return (
 		<>
 			<div className = "header">Choose your shade:</div>
@@ -18,4 +18,4 @@ function Minimal(){
 	);
 };
 
-export default Minimal;
+export default Neon;
