@@ -7,10 +7,10 @@ function Elegant(){
 			<div className = "header">Choose your shade:</div>
 
 			<div className = "block">
-			<Link className="light" to="/Light">
+			<Link className="light" to="/Elegant_Light">
 			<h1>LIGHT</h1>
 			</Link>
-			<Link className="dark" to="/Dark">
+			<Link className="dark" to="/Elegant_Dark">
 			<h1>DARK</h1>
 			</Link>
 			</div>
