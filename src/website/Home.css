@@ -1,62 +1,75 @@
 .intro-block{
   background-color: white;
-  height: 500px;
+  height: 400px;
 }
 
 .title {
-  font-size: 80px;
+  font-size: 90px;
   font-family: sans-serif;
   text-align: center;
-  padding-top: 170px;
+  padding-top: 160px;
 }
   
   .title span:nth-child(10n + 1) {
-  color: rgb(250, 146, 207);
+  color: #f790cc;
   }
   
   .title span:nth-child(10n + 2) {
-  color: blue;
+  color: #0044ff;
   }
   
   .title span:nth-child(10n + 3){
-  color: red;
+  color: #ff2929;
   }
   
   .title span:nth-child(10n + 5){
-  color: green;
+  color: #00b900;
   }
   
   .title span:nth-child(10n + 4) {
-  color: orange;
+  color: #ff9900;
   }
   
   .title span:nth-child(10n + 6){
-  color: purple;
+  color: #b300b3;
+  }
+
+  .title{
+    color: rgb(135, 145, 172);
   }
 
 .text{
-  color: black;
+  color: rgb(73, 73, 73);
   font-size: 20px;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
+  align-items: center;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 60px;
+}
+
+.back{
+  display:flex;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.background{
+  max-width: 500px;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
 }
 
 .start-block{
-  background-color: white;
-  height: 300px;
-  display: flex;
-  align-items: center;
-	position: sticky;
-  padding-left: 440px;
+  display:flex;
+  justify-content: center;
 }
 
 .themes{
-  color: rgb(29, 92, 92);
+  color: rgb(135, 145, 172);
   font-size: 20px;
   text-decoration: none;
   border-style: solid;
-  border-color:rgb(29, 92, 92);
+  border-color:rgb(135, 145, 172);
   border-width: 5px;
   padding-left: 20px;
   padding-right: 20px;
@@ -64,6 +77,7 @@
 }
 
 .themes:hover{
-  color: aqua;
-  border-color:aqua;
+  color: rgb(73, 73, 73);
+  border-color:rgb(73, 73, 73);
+  
 }

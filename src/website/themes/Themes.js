@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Themes(){
 	return (
 		<>
-			<div className = "header">Choose your theme:</div>
+			<div className = "header">Choose your theme</div>
 
 			<div className = "top">
 			<Link className="elegant" to="/Elegant">

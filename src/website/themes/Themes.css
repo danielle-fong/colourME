@@ -1,7 +1,8 @@
 .header{
+    font-size: 15px;	
 	text-align: center;
-	padding-top: 130px;
-	font-size: 20px;
+	padding-top: 150px;
+	color: rgb(73, 73, 73);
 
 }
 
@@ -13,38 +14,46 @@
     font-size: 15px;
 	padding-left: 170px;
 	padding-right: 170px;
-	padding-top: 50px;
+	padding-top: 60px;
 }
 
 .elegant{
+	color: rgb(73, 73, 73);
 	border-style: solid;
-	border-color:rgb(29, 92, 92);
-	padding-left: 12px;
-	padding-right: 12px;
+	border-color:rgb(73, 73, 73);
+	padding-block: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
 	text-decoration: none;
 }
 
 .minimal{
+	color: rgb(73, 73, 73);
 	border-style: solid;
-	border-color:rgb(29, 92, 92);
-	padding-left: 12px;
-	padding-right: 12px;
+	border-color:rgb(73, 73, 73);
+	padding-block: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
 	text-decoration: none;
 }
 
 .modern{
+	color: rgb(73, 73, 73);
 	border-style: solid;
-	border-color:rgb(29, 92, 92);
-	padding-left: 12px;
-	padding-right: 12px;
+	border-color:rgb(73, 73, 73);
+	padding-block: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
 	text-decoration: none;
 }
 
 .nature{
+	color: rgb(73, 73, 73);
 	border-style: solid;
-	border-color:rgb(29, 92, 92);
-	padding-left: 12px;
-	padding-right: 12px;
+	border-color:rgb(73, 73, 73);
+	padding-block: 10px;
+	padding-left: 32px;
+	padding-right: 32px;
 	text-decoration: none;
 }
 
@@ -56,37 +65,45 @@
     font-size: 15px;
 	padding-left: 170px;
 	padding-right: 170px;
-	padding-top: 50px;
+	padding-top: 60px;
 }
 
 .neon{
+	color: rgb(73, 73, 73);
 	border-style: solid;
-	border-color:rgb(29, 92, 92);
-	padding-left: 12px;
-	padding-right: 12px;
+	border-color:rgb(73, 73, 73);
+	padding-block: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
 	text-decoration: none;
 }
 
 .pastel{
+	color: rgb(73, 73, 73);
 	border-style: solid;
-	border-color:rgb(29, 92, 92);
-	padding-left: 12px;
-	padding-right: 12px;
+	border-color:rgb(73, 73, 73);
+	padding-block: 10px;
+	padding-left: 35px;
+	padding-right: 35px;
 	text-decoration: none;
 }
 
 .tropical{
+	color: rgb(73, 73, 73);
 	border-style: solid;
-	border-color:rgb(29, 92, 92);
-	padding-left: 12px;
-	padding-right: 12px;
+	border-color:rgb(73, 73, 73);
+	padding-block: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
 	text-decoration: none;
 }
 
 .vintage{
+	color: rgb(73, 73, 73);
 	border-style: solid;
-	border-color:rgb(29, 92, 92);
-	padding-left: 12px;
-	padding-right: 12px;
+	border-color:rgb(73, 73, 73);
+	padding-block: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
 	text-decoration: none;
 }
