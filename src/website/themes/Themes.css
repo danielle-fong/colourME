@@ -1,20 +1,21 @@
 .header{
-    font-size: 15px;	
+	font-size: 45px;
+	font-family: 'pt sans';	
 	text-align: center;
 	padding-top: 150px;
-	color: rgb(73, 73, 73);
-
+	color:rgb(73, 73, 73);
 }
 
 .top{
+    font-size: 15px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	position: sticky;
-    font-size: 15px;
 	padding-left: 170px;
 	padding-right: 170px;
 	padding-top: 60px;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 2px;
 }
 
 .elegant{
@@ -22,9 +23,14 @@
 	border-style: solid;
 	border-color:rgb(73, 73, 73);
 	padding-block: 10px;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 23px;
+	padding-right: 23px;
 	text-decoration: none;
+}
+
+.elegant:hover{
+	color: rgb(219, 182, 114);
+	border-color: rgb(219, 182, 114);
 }
 
 .minimal{
@@ -32,9 +38,14 @@
 	border-style: solid;
 	border-color:rgb(73, 73, 73);
 	padding-block: 10px;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
 	text-decoration: none;
+}
+
+.minimal:hover{
+	color: rgb(161, 161, 161);
+	border-color: rgb(161, 161, 161);
 }
 
 .modern{
@@ -47,6 +58,11 @@
 	text-decoration: none;
 }
 
+.modern:hover{
+	color: rgb(83, 141, 145);
+	border-color: rgb(83, 141, 145);
+}
+
 .nature{
 	color: rgb(73, 73, 73);
 	border-style: solid;
@@ -55,6 +71,11 @@
 	padding-left: 32px;
 	padding-right: 32px;
 	text-decoration: none;
+}
+
+.nature:hover{
+	color: rgb(156,175,136);
+	border-color: rgb(156,175,136);
 }
 
 .bottom{
@@ -66,6 +87,8 @@
 	padding-left: 170px;
 	padding-right: 170px;
 	padding-top: 60px;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 2px;
 }
 
 .neon{
@@ -73,9 +96,14 @@
 	border-style: solid;
 	border-color:rgb(73, 73, 73);
 	padding-block: 10px;
-	padding-left: 50px;
-	padding-right: 50px;
+	padding-left: 54px;
+	padding-right: 54px;
 	text-decoration: none;
+}
+
+.neon:hover{
+	color: rgb(200, 238, 63);
+	border-color: rgb(200, 238, 63);
 }
 
 .pastel{
@@ -83,9 +111,14 @@
 	border-style: solid;
 	border-color:rgb(73, 73, 73);
 	padding-block: 10px;
-	padding-left: 35px;
-	padding-right: 35px;
+	padding-left: 38px;
+	padding-right: 38px;
 	text-decoration: none;
+}
+
+.pastel:hover{
+	color: rgb(248, 166, 155);
+	border-color: rgb(248, 166, 155);
 }
 
 .tropical{
@@ -93,9 +126,14 @@
 	border-style: solid;
 	border-color:rgb(73, 73, 73);
 	padding-block: 10px;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-left: 13px;
+	padding-right: 13px;
 	text-decoration: none;
+}
+
+.tropical:hover{
+	color: rgb(243, 128, 52);
+	border-color: rgb(243, 128, 52);
 }
 
 .vintage{
@@ -103,7 +141,18 @@
 	border-style: solid;
 	border-color:rgb(73, 73, 73);
 	padding-block: 10px;
-	padding-left: 25px;
-	padding-right: 25px;
+	padding-left: 27px;
+	padding-right: 27px;
 	text-decoration: none;
+}
+
+.vintage:hover{
+	color: rgb(138, 115, 82);
+	border-color: rgb(138, 115, 82);
+}
+
+.rim{
+  display:flex;
+  justify-content: center;
+  padding-top: 50px;
 }

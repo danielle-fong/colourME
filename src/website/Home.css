@@ -5,9 +5,11 @@
 
 .title {
   font-size: 90px;
-  font-family: sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 3px;
   text-align: center;
   padding-top: 160px;
+  font-weight: 500;
 }
   
   .title span:nth-child(10n + 1) {
@@ -41,7 +43,8 @@
 .text{
   color: rgb(73, 73, 73);
   font-size: 20px;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'pt sans';
+  letter-spacing: 5px;
   align-items: center;
   text-align: center;
   padding-top: 60px;
@@ -55,8 +58,6 @@
 
 .background{
   max-width: 500px;
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
 }
 
 .start-block{
@@ -66,11 +67,14 @@
 
 .themes{
   color: rgb(135, 145, 172);
-  font-size: 20px;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2px;
   text-decoration: none;
   border-style: solid;
   border-color:rgb(135, 145, 172);
   border-width: 5px;
+  padding-block: 10px;
   padding-left: 20px;
   padding-right: 20px;
 

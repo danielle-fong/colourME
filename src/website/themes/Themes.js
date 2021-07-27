@@ -1,5 +1,6 @@
 import "./Themes.css";
 import { Link } from "react-router-dom";
+import background from "./background.png";
 
 function Themes(){
 	return (
@@ -41,6 +42,7 @@ function Themes(){
 			<h1>VINTAGE</h1>
 			</Link>
             </div>
+			<div className="rim"><img className="background" src={background}/></div>
 		</>
 	);
 };
