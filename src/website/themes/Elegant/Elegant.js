@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Elegant(){
 	return (
 		<>
-			<div className = "header">Choose your shade:</div>
+			<div className = "header">Choose your shade</div>
 
 			<div className = "block">
 			<Link className="light" to="/Elegant_Light">

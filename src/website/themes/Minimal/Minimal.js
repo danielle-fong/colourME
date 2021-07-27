@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Minimal(){
 	return (
 		<>
-			<div className = "header">Choose your shade:</div>
+			<div className = "header">Choose your shade</div>
 
 			<div className = "block">
 			<Link className="light" to="/Light">
