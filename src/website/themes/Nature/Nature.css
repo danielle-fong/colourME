@@ -8,22 +8,44 @@
 	padding-left: 300px;
 	padding-right: 300px;
 	padding-top: 100px;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 2px;
 }
 
 .light{
+	color: rgb(73, 73, 73);
 	border-style: solid;
-	border-color:rgb(29, 92, 92);
-	padding-left: 45px;
-	padding-right: 45px;
-	text-decoration: none;
-	color: rgb(29, 92, 92);
-}
-
-.dark{
-	border-style: solid;
-	border-color:rgb(29, 92, 92);
+	border-color:rgb(73, 73, 73);
+	padding-block: 10px;
 	padding-left: 50px;
 	padding-right: 50px;
 	text-decoration: none;
-	color: rgb(29, 92, 92);
+}
+
+.light:hover{
+	color: black(73, 73, 73);
+	border-color:black(73, 73, 73);
+	background-color: whitesmoke;
+}
+
+.dark{
+	color: rgb(73, 73, 73);
+	border-style: solid;
+	border-color:rgb(73, 73, 73);
+	padding-block: 10px;
+	padding-left: 55px;
+	padding-right: 55px;
+	text-decoration: none;
+}
+
+.dark:hover{
+	color: white(73, 73, 73);
+	border-color:white(73, 73, 73);
+	background-color: black;
+}
+
+.col{
+	display:flex;
+	justify-content: center;
+	padding-top: 131px;
 }
