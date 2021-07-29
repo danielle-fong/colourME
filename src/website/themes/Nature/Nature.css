@@ -23,9 +23,9 @@
 }
 
 .light:hover{
-	color: black(73, 73, 73);
-	border-color:black(73, 73, 73);
-	background-color: whitesmoke;
+	color: black;
+	border-color:black;
+	background-color: rgb(252, 252, 252);
 }
 
 .dark{
@@ -39,8 +39,8 @@
 }
 
 .dark:hover{
-	color: white(73, 73, 73);
-	border-color:white(73, 73, 73);
+	color: white;
+	border-color: white;
 	background-color: black;
 }
 
