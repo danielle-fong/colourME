@@ -5,7 +5,6 @@ import background from "./background.png";
 function Elegant(){
 	return (
 		<>
-			<div className = "page">
 			<div className = "header">Choose your shade</div>
 
 			<div className = "block">
@@ -19,7 +18,6 @@ function Elegant(){
 			</Link>
 			</div>
 			<div className="col"><img className="background" src={background}/></div>
-			</div>
 		</>
 	);
 };
