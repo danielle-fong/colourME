@@ -9,11 +9,11 @@ function Pastel(){
 
 			<div className = "block">
 			
-			<Link className="light" to="/Light">
+			<Link className="light" to="/Pastel_Light">
 			<h1>LIGHT</h1>
 			</Link>
 
-			<Link className="dark" to="/Dark">
+			<Link className="dark" to="/Pastel_Dark">
 			<h1>DARK</h1>
 			</Link>
 			</div>

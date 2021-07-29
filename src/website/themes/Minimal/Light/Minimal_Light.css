@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.colours{
+    display: flex;
+    grid-auto-flow: column;
+    height: 100vh;
+    text-align: center;
+    line-height: 670px;
+    font-size: 17px;
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+.mil1{
+    background-color: #f9c1b1 ;
+    width: 100%;
+    height: 100%;
+    color: transparent;
+}
+
+.mil1:hover{
+    color: white;
+}
+
+.mil2{
+    background-color: #6a9395;
+    width: 100%;
+    height: 100%;
+    color: transparent;
+}
+
+.mil2:hover{
+    color: white;
+}
+
+.mil3{
+    background-color: #8c737c;
+    width: 100%;
+    height: 100%;
+    color: transparent;
+}
+
+.mil3:hover{
+    color: white;
+}
+
+.mil4{
+    background-color: #fbe7e1;
+    width: 100%;
+    height: 100%;
+    color: transparent;
+}
+
+.mil4:hover{
+    color: white;
+}
+
+.mil5{
+    background-color: #f4f2df;
+    width: 100%;
+    height: 100%;
+    color: transparent;
+}
+
+.mil5:hover{
+    color: white;
+}
