@@ -1,4 +1,4 @@
-import "./Minimal.css";
+import "./Minimal_Dark.css";
 
 function Dark(){
 	return (

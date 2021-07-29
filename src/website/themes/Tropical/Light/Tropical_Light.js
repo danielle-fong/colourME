@@ -1,4 +1,4 @@
-import ".Tropical_Light.css";
+import "./Tropical_Light.css";
 
 function Light(){
 	return (
