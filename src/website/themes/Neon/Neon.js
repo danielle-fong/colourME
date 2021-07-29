@@ -9,11 +9,11 @@ function Neon(){
 
 			<div className = "block">
 			
-			<Link className="light" to="/Light">
+			<Link className="light" to="/Neon_Light">
 			<h1>LIGHT</h1>
 			</Link>
 
-			<Link className="dark" to="/Dark">
+			<Link className="dark" to="/Neon_Dark">
 			<h1>DARK</h1>
 			</Link>
 			</div>
