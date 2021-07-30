@@ -4,11 +4,11 @@ function Light(){
 	return (
 		<>
         <div className = "colours">
-			<div className = "nal1">#F9C1B1</div>
-            <div className = "nal2">#6A9395</div>
-            <div className = "nal3">#8C737C</div>
-            <div className = "nal4">#FBE7E1</div>
-            <div className = "nal5">#F4F2DF</div>
+			<div className = "nal1">#9FC497</div>
+            <div className = "nal2">#B9AC95</div>
+            <div className = "nal3">#B3C298</div>
+            <div className = "nal4">#A1B493</div>
+            <div className = "nal5">#ACAC8B</div>
         </div>
 		</>
 	);

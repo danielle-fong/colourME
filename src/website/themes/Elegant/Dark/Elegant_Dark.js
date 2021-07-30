@@ -4,11 +4,11 @@ function Dark(){
 	return (
 		<>
         <div className = "colours">
-			      <div className = "ed1">#F9C1B1</div>
-            <div className = "ed2">#test</div>
-            <div className = "ed3">#8C737C</div>
-            <div className = "ed4">#test</div>
-            <div className = "ed5">#F4F2DF</div>
+			<div className = "ed1">#1F0806</div>
+            <div className = "ed2">#09171B</div>
+            <div className = "ed3">#182418</div>
+            <div className = "ed4">#5E5426</div>
+            <div className = "ed5">#1B1620</div>
         </div>
 		</>
 	);
