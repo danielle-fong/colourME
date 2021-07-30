@@ -14,30 +14,37 @@
   
   .title span:nth-child(10n + 1) {
   color: #f790cc;
+  font-weight: 500;
   }
   
   .title span:nth-child(10n + 2) {
   color: #0044ff;
+  font-weight: 500;
   }
   
   .title span:nth-child(10n + 3){
   color: #ff2929;
+  font-weight: 500;
   }
   
   .title span:nth-child(10n + 5){
   color: #00b900;
+  font-weight: 500;
   }
   
   .title span:nth-child(10n + 4) {
   color: #ff9900;
+  font-weight: 500;
   }
   
   .title span:nth-child(10n + 6){
   color: #b300b3;
+  font-weight: 500;
   }
 
   .title{
     color: rgb(135, 145, 172);
+    font-weight: 550;
   }
 
 .text{
