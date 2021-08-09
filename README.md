@@ -2,7 +2,7 @@
 
 A colour palette generator based off the user's preference. This website was created using ReactJS, JavaScript, HTML, and CSS. For the perfect palette, the user chooses their theme and shade, which then generates a colour palette that consists of five colours. The user can obtain the hex code of each specific colour by hovering over the colour in the palette.
 
-Here is a demo of how each palette is generated.
+Here is a demo of how each palette is generated. The first demo generates a light tropical palette.
 ![](demos/title.png)
 
 
@@ -11,6 +11,7 @@ Here is a demo of how each palette is generated.
 ![](demos/trop1.png)
 ![](demos/trop2.png)
 
+This next demo creates a dark nature palette.
 ![](demos/nature.png)
 ![](demos/dark.png)
 ![](demos/nat1.png)
