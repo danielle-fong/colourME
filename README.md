@@ -10,7 +10,7 @@ Here is a demo of how each palette is generated. The first demo generates a ligh
 ![](demos/light.png)
 ![](demos/trop1.png)
 ![](demos/trop2.png)
-<br/>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
 This next demo creates a dark nature palette.
 ![](demos/nature.png)
 ![](demos/dark.png)
